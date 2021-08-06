@@ -1,0 +1,6 @@
+The Domain name sever is a computer that exists in several areas that links a URL to a the IP address which allows two computers to comunicatee
+First the computer checks it's cache to see if you looked it up already, if so it grabs the IP address quicker, it then turns to servers that cover more and areas
+that way the global servers don't get swamped by everyone at once 
+
+So that's what happens everytime you click on a link. There a axios commands with params that extend a URL for queries and other reasons. When you
+get to a website you are the client computer and the server is the computer on the other side where the website is stored.
